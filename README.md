@@ -21,9 +21,9 @@ Estudiante de ingeniería en sistemas y programador full-stack. Me apasiona cons
 
 ### Proyectos destacados
 
-*   📖 **[kromaflip](https://github.com/MrLoxen/kromaflip-visor-3d)**: plataforma full-stack en flask, sqlite y vanilla js para visualizar revistas digitales en 3d, con procesamiento de documentos word y pdf.
-*   🗺️ **[mapa interactivo de venezuela](https://github.com/MrLoxen/mapa-interactivo-venezuela)**: aplicación web con leaflet.js y turf.js que incluye renderizado geoespacial y geolocalización automática en tiempo real.
-*   🖱️ **[airflow / virtual mouse](https://github.com/MrLoxen/airflow-virtual-mouse)**: sistema de visión por computador en python con mediapipe y opencv para controlar el cursor mediante gestos manuales.
+*    **[kromaflip](https://github.com/MrLoxen/kromaflip-visor-3d)**: plataforma full-stack en flask, sqlite y vanilla js para visualizar revistas digitales en 3d, con procesamiento de documentos word y pdf.
+*    **[mapa interactivo de venezuela](https://github.com/MrLoxen/mapa-interactivo-venezuela)**: aplicación web con leaflet.js y turf.js que incluye renderizado geoespacial y geolocalización automática en tiempo real.
+*    **[airflow / virtual mouse](https://github.com/MrLoxen/airflow-virtual-mouse)**: sistema de visión por computador en python con mediapipe y opencv para controlar el cursor mediante gestos manuales.
 
 ---
 
